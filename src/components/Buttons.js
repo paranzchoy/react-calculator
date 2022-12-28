@@ -28,7 +28,7 @@ const Buttons = ({ inputHandler, clearInput, backspace, changePlusMinus, calcula
         x<sup>2</sup>
       </button>
       <button className="btn clr" onClick={clearInput}>
-        AC
+        Franz
       </button>
       <button className="btn clr" onClick={backspace}>
         ⌫
